@@ -1,3 +1,13 @@
 Joao Pereira,Gerente,3000
 Joana,Funcionario generico,500
 Joaninha,Funcionario generico,1200
+Enzo,Funcionario generico,1300
+Enzo,Funcionario generico,1400
+Enzo,Funcionario generico,1500
+Enzo,Funcionario generico,1400
+Enzo,Funcionario generico,1200
+Enzo,Funcionario generico,1600
+Enzo,Funcionario generico,12
+Enzo,Funcionario generico,14
+Enzo,Funcionario generico,16
+Enzo,Funcionario generico,18
