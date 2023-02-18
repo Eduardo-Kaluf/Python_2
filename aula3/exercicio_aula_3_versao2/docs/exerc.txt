@@ -1,0 +1,14 @@
+#Exercicio de classe com arquivo
+#Objetivo criar uma classe para manipulação de arquivos
+#Fazer métodos para inserção, consulta (retornando um Objeto), delete (excluir dados)
+#Cada entidade deve ter seu próprio arquivo:
+    #Funcionario (criar com qualquer extensão)
+    #Cliente
+    #Produto
+
+#Seus arquivos devem ser armazenados compactados
+
+#Bonus: novas entidades podem ser definidas pelo usuário. (Criar uma classe EmBranco)
+#Bonus 2: A consulta deve utilizar um algoritmo de busca.(HeapSort)
+
+#Pode utilizar a biblioteca Pickle
