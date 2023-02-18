@@ -1,4 +1,4 @@
-from manipulaArquivo import ManipulaArquivo
+from manipula_arquivo import ManipulaArquivo
 from models import Funcionario
 
 
