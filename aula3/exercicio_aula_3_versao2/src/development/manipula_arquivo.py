@@ -1,5 +1,5 @@
 from typing import List
-from arquivoConexoes import ArquivoConexoes
+from arquivo_conexoes import ArquivoConexoes
 
 
 class ManipulaArquivo:
