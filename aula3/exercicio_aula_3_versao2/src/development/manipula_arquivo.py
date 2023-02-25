@@ -21,11 +21,13 @@ class ManipulaArquivo:
             linha = linha.replace("\n", "").split("//")
             if identificador == linha[0]:
                 retorno = self.classe(*linha)
-            else:
-                retorno = "Nenhum usuário com o identificador especificado"
-            arquivo.close()
-            self.conexao.compactar()
-            return retorno
+                break
+            retorno = None
+        if retorno == None:
+            return "Nenhum usuário com o identificador especificado"
+        arquivo.close()
+        self.conexao.compactar()
+        return retorno
 
     def consulta_geral(self) -> List[object]:
         arquivo = self.conexao.abrir()
